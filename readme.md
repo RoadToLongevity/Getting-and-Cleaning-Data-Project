@@ -49,6 +49,6 @@ This repo includes the following files:
 
 Notes: 
 ==================================================================
-This script was generated for the Coursera course entitled "Getting and Cleaning Data" lead by professor Jeff Leek.  Details of the course can be found on Coursera's website at:
+This script was generated for the Coursera course entitled "Getting and Cleaning Data" led by professor Jeff Leek.  Details of the course can be found on Coursera's website at:
 
 https://class.coursera.org/getdata-010
